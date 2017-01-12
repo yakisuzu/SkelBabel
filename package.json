@@ -1,11 +1,11 @@
 {
-  "name": "babel-skel",
+  "name": "skel-babel",
   "version": "1.0.0",
   "description": "text",
   "main": "index.js",
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/yakisuzu/babel-skel.git"
+    "url" : "https://github.com/yakisuzu/skel-babel.git"
   },
   "scripts": {
     "eslint": "eslint src/",
