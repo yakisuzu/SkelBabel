@@ -2,6 +2,7 @@
   "name": "skel-babel",
   "version": "1.0.0",
   "description": "text",
+  "readme": "readme.md",
   "main": "index.js",
   "repository" : {
     "type" : "git",
